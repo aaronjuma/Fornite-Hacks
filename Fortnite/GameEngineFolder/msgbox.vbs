@@ -1,0 +1,2 @@
+x=msgbox("ERROR 404: SYSTEM 32 DELETED" ,1, "VIRUS") 
+x=msgbox("ERROR 404: SYSTEM 32 DELETED" ,1, "VIRUS") 
